@@ -1,0 +1,17 @@
+{
+  "name": "json-and-images",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "node": "^19.8.1",
+    "process": "^0.11.10",
+    "web3.storage": "^4.5.4"
+  }
+}
